@@ -1,7 +1,5 @@
 # deep-learning-foundations-python-tensorflow
 
----
-
 Deep Learning foundations with Python and TensorFlow - from Python basics to building and evaluating neural networks (Fashion-MNIST case study).
 
 ---
